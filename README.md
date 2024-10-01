@@ -7,7 +7,7 @@ En este repositorio se subirá la tarea de la semana 3 del TALLER DE HERRAMIENTA
 
 Tras realizar la graficación, 
 
-<img src="C:\Users\User\Documents\GitHub\network_t3\newplot.png" alt="Gráfico de Network" width="500"/>
+<img src="C:\Users\User\Documents\GitHub\network_t3\temp_grafico.png" alt="Gráfico de Network" width="500"/>
 
 
 Se puede acceder al repositorio a través del siguiente enlace:
